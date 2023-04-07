@@ -8,7 +8,7 @@ echo "---------------------------------------------------"
 echo -e "\e[32mШаг 1: Инициализация скрипта \e[0m" && sleep 2
 
 sudo apt install curl -y
-curl -s https://raw.githubusercontent.com/NodeRunTeam/NodeGuide/main/logo-hc.sh | bash
+curl -s https://raw.githubusercontent.com/NodeRunTeam/NodeGuide/main/logo_hc.sh | bash
 
 
 echo "---------------------------------------------------"
